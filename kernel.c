@@ -101,6 +101,5 @@ void kernel_main(void)
 
 	terminal_setcolor(VGA_COLOR_LIGHT_BLUE);
  
-	/* Newline support is left as an exercise. */
 	terminal_writestring("Welcome to sniperOS TEST 2\n");
 }
